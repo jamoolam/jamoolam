@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamoolam
 - 👀 I’m interested in cooking, basketball, anime, and living life
 - 🌱 I’m currently learning more coding languages than I know what to do with
-- 💞️ I’m looking to collaborate on applications I find interesting and useful
+- 💞️ I’m looking to collaborate on projects I find interesting and useful
 - 📫 How to reach me: jamalmizyed08@gmail.com
 
 <!---
