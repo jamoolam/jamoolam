@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Chicago Stargazers](https://chicagostargazerssociety.netlify.app/)
 
-- 🌱 I’m currently learning **Node.js/Express.js/MySQL**
+- 🌱 I’m currently learning **Node.js/Express.js/MongoDB**
 
 - 👯 I’m looking to collaborate on **just about anything**
 
